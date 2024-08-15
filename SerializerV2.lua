@@ -153,3 +153,5 @@ end
 function n:Deserialize(q)
 	return C(q)
 end
+
+return n
